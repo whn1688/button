@@ -1,5 +1,6 @@
 import pygame
 import os
+import random
 
 #常量设置
 SCREEN_RECT = pygame.Rect(0, 0, 480, 700)           # 屏幕尺寸
